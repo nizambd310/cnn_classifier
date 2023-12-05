@@ -1,0 +1,1 @@
+from src.cnn_classifier_project import logger
