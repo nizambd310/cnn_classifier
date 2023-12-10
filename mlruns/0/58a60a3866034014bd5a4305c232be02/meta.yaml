@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DTE-LAPC-128-21/Desktop/cnn_classifier/mlruns/0/58a60a3866034014bd5a4305c232be02/artifacts
+end_time: 1702145041267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58a60a3866034014bd5a4305c232be02
+run_name: luxuriant-kite-865
+run_uuid: 58a60a3866034014bd5a4305c232be02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702145031001
+status: 3
+tags: []
+user_id: DTE-LAPC-128-21
